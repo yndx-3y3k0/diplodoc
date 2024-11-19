@@ -1,3 +1,5 @@
+test
+
 **english** | [русский](https://github.com/diplodoc-platform/cli/blob/master/README.ru.md)
 - - -
 
